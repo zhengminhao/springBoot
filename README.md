@@ -1,3 +1,3 @@
 # springBoot
-基于springBoot微信小程序
-架构：springBoot+mysql+mybatis
+1、基于springBoot微信小程序 ；
+2、架构：springBoot+mysql+mybatis ；
